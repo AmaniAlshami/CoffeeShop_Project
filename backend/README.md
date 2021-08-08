@@ -84,4 +84,4 @@ There are `@TODO` comments throughout the `./backend/src`. We recommend tackling
 
 1. `./src/auth/auth.py`
 2. `./src/api.py`
-https://dev-gctheugr.us.auth0.com/authorize?audience=Coffee_Shop&response_type=token&client_id=x8XtOBQhY9rQhq5HTHFNaHcmsOR7neWg&redirect_uri=https://127.0.0.1:8080/login-result
+
